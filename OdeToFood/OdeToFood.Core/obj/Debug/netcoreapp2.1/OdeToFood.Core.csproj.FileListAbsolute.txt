@@ -16,3 +16,12 @@ D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood.Core\obj\Debug\n
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
