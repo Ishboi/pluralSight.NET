@@ -55,7 +55,6 @@ D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\bin\Debug\netcor
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
-D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.input.cache
@@ -126,3 +125,12 @@ D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood\
 D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.genruntimeconfig.cache
+D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
+D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
+D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Create.cshtml.g.cs
+D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Delete.cshtml.g.cs
+D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Details.cshtml.g.cs
+D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Edit.cshtml.g.cs
+D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Index.cshtml.g.cs
