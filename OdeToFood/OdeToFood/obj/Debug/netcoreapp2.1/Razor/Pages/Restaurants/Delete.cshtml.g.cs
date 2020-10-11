@@ -70,12 +70,12 @@ using OdeToFood;
             WriteLiteral("?\r\n</div>\r\n");
             EndContext();
             BeginContext(235, 148, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b306ea9b1b5465f9af419f07f6b9861", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8af20f2b9a754a4c9b195c0706f9b3ed", async() => {
                 BeginContext(255, 66, true);
                 WriteLiteral("\r\n  <button type=\"submit\" class=\"btn btn-danger\">Yes!</button>\r\n  ");
                 EndContext();
                 BeginContext(321, 53, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8ca5dc2a8eeb4181987c972ac364e0d5", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8afceda7abee422081676b5afb77d4f9", async() => {
                     BeginContext(364, 6, true);
                     WriteLiteral("Cancel");
                     EndContext();

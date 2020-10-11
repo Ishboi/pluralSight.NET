@@ -26,7 +26,8 @@ namespace OdeToFood
     // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services)
     {
-      services.AddDbContextPool<OdeToFoodDbContext>(options => {
+      services.AddDbContextPool<OdeToFoodDbContext>(options =>
+      {
         options.UseSqlServer(Configuration.GetConnectionString("OdeToFoodDb"));
       });
 
@@ -34,8 +35,8 @@ namespace OdeToFood
 
       services.Configure<CookiePolicyOptions>(options =>
       {
-              // This lambda determines whether user consent for non-essential cookies is needed for a given request.
-              options.CheckConsentNeeded = context => true;
+        // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+        options.CheckConsentNeeded = context => true;
         options.MinimumSameSitePolicy = SameSiteMode.None;
       });
 
@@ -56,12 +57,29 @@ namespace OdeToFood
         app.UseHsts();
       }
 
+
+      app.Use(SayHelloMiddleware);
       app.UseHttpsRedirection();
       app.UseStaticFiles();
       app.UseNodeModules(env);
       app.UseCookiePolicy();
 
       app.UseMvc();
+    }
+
+    private RequestDelegate SayHelloMiddleware(RequestDelegate next)
+    {
+      return async ctx =>
+      {
+        if (ctx.Request.Path.StartsWithSegments("/hello"))
+        {
+          await ctx.Response.WriteAsync("Hello, World!");
+        }
+        else
+        {
+          await next(ctx);
+        }
+      };
     }
   }
 }
