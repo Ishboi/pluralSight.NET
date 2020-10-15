@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m4iOOqJ1sfNiYaW4P7X3WvdIjKdqVsTVtXGNlc29iYD3lO0+g8lXu7ItrgxJwLiY6X4J1wGChEZ5VRnhrUXuWA==",
+  "dgSpecHash": "+PQ5omG8AutrB1trn31pLBg3DUhIqu6ROFYuQ6eRjJvwgd7Q6wHcb8N7lvk6lRf7k+YoHFvyFO3NDFszt0NAxw==",
   "success": true,
-  "projectFilePath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+  "projectFilePath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.11\\microsoft.entityframeworkcore.2.1.11.nupkg.sha512",
