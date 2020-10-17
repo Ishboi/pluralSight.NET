@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "o8MCCxNGBN+0vENK3+IRSQssfJbIPh55riqFKfGVjE5/zI4e/qsZ5zMiYa554a+MQafUYup/ezKzkgDXQ2ZucQ==",
+=======
+  "dgSpecHash": "+PQ5omG8AutrB1trn31pLBg3DUhIqu6ROFYuQ6eRjJvwgd7Q6wHcb8N7lvk6lRf7k+YoHFvyFO3NDFszt0NAxw==",
+>>>>>>> f657de0a99c361615833d858f42afe185ab6b987
   "success": true,
-  "projectFilePath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+  "projectFilePath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

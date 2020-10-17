@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "DKxLzRVri64tkxGsQGS5PXXyBVyb7vTIJ5WHaaoNqiSZEgjd2MBx/2WCGhdAvnr5hA5TA9PGAISIQr/ZKXMYeA==",
+=======
+  "dgSpecHash": "q5ejvoJPGlKKAauN8FqtqBnPS5wAbWE4/UOsJTlJ9hMpfU3jn4cJRLWflteIg62ReOkM3BM7vO9bG/P7JzuSmA==",
+>>>>>>> f657de0a99c361615833d858f42afe185ab6b987
   "success": true,
-  "projectFilePath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "projectFilePath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
+    "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
   },
   "projects": {
-    "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+    "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectUniqueName": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "projectName": "OdeToFood.Core",
-        "projectPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Core\\obj\\",
+        "outputPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,12 +56,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+<<<<<<< HEAD
           "frameworkReferences": {
             "NETStandard.Library": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+>>>>>>> f657de0a99c361615833d858f42afe185ab6b987
         }
       },
       "runtimes": {
@@ -70,14 +74,14 @@
         }
       }
     },
-    "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+    "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectUniqueName": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "projectName": "OdeToFood.Data",
-        "projectPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\obj\\",
+        "outputPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -96,8 +100,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
-                "projectPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
+              "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+                "projectPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
               }
             }
           }
@@ -136,12 +140,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+<<<<<<< HEAD
           "frameworkReferences": {
             "NETStandard.Library": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+>>>>>>> f657de0a99c361615833d858f42afe185ab6b987
         }
       },
       "runtimes": {
@@ -150,14 +158,14 @@
         }
       }
     },
-    "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
+    "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectUniqueName": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
         "projectName": "OdeToFood",
-        "projectPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood\\obj\\",
+        "outputPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -176,8 +184,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-                "projectPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+              "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+                "projectPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
               }
             }
           }
@@ -234,6 +242,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+<<<<<<< HEAD
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
@@ -257,6 +266,9 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+>>>>>>> f657de0a99c361615833d858f42afe185ab6b987
         }
       },
       "runtimes": {

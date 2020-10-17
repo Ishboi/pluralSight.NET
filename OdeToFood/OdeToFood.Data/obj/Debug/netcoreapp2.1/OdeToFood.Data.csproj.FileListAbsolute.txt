@@ -36,3 +36,6 @@ D:\Courses\.NET\pluralsight\pluralSight.NET\pluralSight.NET\OdeToFood\OdeToFood.
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.json
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.dev.json
 D:\Courses\.NET\pluralsight\pluralSight.NET\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.genruntimeconfig.cache
+D:\.NET\pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.json
+D:\.NET\pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.dev.json
+D:\.NET\pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.genruntimeconfig.cache

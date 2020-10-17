@@ -9598,11 +9598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "projectUniqueName": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
       "projectName": "OdeToFood.Data",
-      "projectPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "projectPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Data\\obj\\",
+      "outputPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9621,8 +9621,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
-              "projectPath": "D:\\Courses\\.NET\\pluralsight\\pluralSight.NET\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
+            "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+              "projectPath": "D:\\.NET\\pluralsight\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
             }
           }
         }
@@ -9661,12 +9661,16 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+<<<<<<< HEAD
         "frameworkReferences": {
           "NETStandard.Library": {
             "privateAssets": "all"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+>>>>>>> f657de0a99c361615833d858f42afe185ab6b987
       }
     },
     "runtimes": {
