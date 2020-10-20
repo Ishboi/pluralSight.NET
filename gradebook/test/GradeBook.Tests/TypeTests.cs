@@ -3,25 +3,62 @@ using Xunit;
 
 namespace GradeBook.Tests
 {
+  public delegate string WriteLogDelegate(string logMessage);
   public class TypeTests
   {
+    int count = 0;
+
     [Fact]
-    public void ValueTypeAlsoPassByValue(){
+    public void WriteLogDelegateCanPointMethod()
+    {
+      WriteLogDelegate log = ReturnMessage;
+      log += ReturnMessage;
+      log += IncrementCount;
+
+      var result = log("Hello!");
+      Assert.Equal(3, count);
+      
+    }
+
+
+    string IncrementCount(string message)
+    {
+      count++;
+      return message.ToLower();
+    }
+    string ReturnMessage(string message)
+    {
+      count++;
+      return message;
+    }
+
+    [Fact]
+    public void TestGreaterThanMaxGrade()
+    {
+      Book book = new Book("");
+      book.AddGrade(105);
+
+    }
+    [Fact]
+    public void ValueTypeAlsoPassByValue()
+    {
       var x = GetInt();
       SetInt(ref x);
 
       Assert.Equal(42, x);
     }
 
-    private void SetInt(ref Int32 x){
+    private void SetInt(ref Int32 x)
+    {
       x = 42;
     }
-    private int GetInt(){
+    private int GetInt()
+    {
       return 3;
     }
 
     [Fact]
-    public void CSharpCanPassByRef ()
+    public void CSharpCanPassByRef()
     {
       var book1 = GetBook("Book 1");
       GetBookSetName(out book1, "New Name");
@@ -37,7 +74,7 @@ namespace GradeBook.Tests
 
 
     [Fact]
-    public void CSharpIsPassByValue ()
+    public void CSharpIsPassByValue()
     {
       var book1 = GetBook("Book 1");
       GetBookSetName(book1, "New Name");
@@ -55,7 +92,7 @@ namespace GradeBook.Tests
 
 
     [Fact]
-    public void CanSetNameFromReference ()
+    public void CanSetNameFromReference()
     {
       var book1 = GetBook("Book 1");
       SetName(book1, "New Name");
@@ -70,14 +107,16 @@ namespace GradeBook.Tests
     }
 
     [Fact]
-    public void StringsBehaveLikeValueTypes(){
+    public void StringsBehaveLikeValueTypes()
+    {
       string name = "Scott";
       var upper = MakeUpperCase(name);
 
       Assert.Equal("Scott", name);
       Assert.Equal("SCOTT", upper);
     }
-    private string MakeUpperCase(string parameter){
+    private string MakeUpperCase(string parameter)
+    {
       return parameter.ToUpper();
     }
 
