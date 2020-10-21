@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vPfA50rxHx9FbEbShvygzzS1MOPklDNKNbkNfA0ukMca1sNVbzpJbf8wxvhINRA9AczCPML8sm0qREdbQRGu0Q==",
+  "dgSpecHash": "awxVsgXrA77OJIuSjEnVDBaukbY3PhIQFIaDRev/6m25QS0IWUopPF7trK1ZZwMmDFJgtHMaupA+nqbA+zSMBA==",
   "success": true,
-  "projectFilePath": "D:\\.NET\\pluralsight\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+  "projectFilePath": "D:\\.NET\\pluralsight\\gradebook\\src\\Gradebook\\GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
