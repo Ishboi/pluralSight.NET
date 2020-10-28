@@ -1,0 +1,13 @@
+D:\.NET\pluralsight\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.exe
+D:\.NET\pluralsight\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.deps.json
+D:\.NET\pluralsight\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.runtimeconfig.json
+D:\.NET\pluralsight\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.runtimeconfig.dev.json
+D:\.NET\pluralsight\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.dll
+D:\.NET\pluralsight\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.pdb
+D:\.NET\pluralsight\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.csprojAssemblyReference.cache
+D:\.NET\pluralsight\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.AssemblyInfoInputs.cache
+D:\.NET\pluralsight\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.AssemblyInfo.cs
+D:\.NET\pluralsight\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.dll
+D:\.NET\pluralsight\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.pdb
+D:\.NET\pluralsight\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.genruntimeconfig.cache

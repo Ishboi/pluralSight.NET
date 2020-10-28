@@ -1,0 +1,13 @@
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.exe
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.deps.json
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.runtimeconfig.json
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.runtimeconfig.dev.json
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.dll
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.pdb
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.AssemblyInfoInputs.cache
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.AssemblyInfo.cs
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.dll
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.pdb
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.genruntimeconfig.cache
+D:\.NET\pluralsight\Collections\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.csprojAssemblyReference.cache

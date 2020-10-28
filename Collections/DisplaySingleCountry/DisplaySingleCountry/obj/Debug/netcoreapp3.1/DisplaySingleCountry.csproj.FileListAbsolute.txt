@@ -1,0 +1,12 @@
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\bin\Debug\netcoreapp3.1\DisplaySingleCountry.exe
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\bin\Debug\netcoreapp3.1\DisplaySingleCountry.deps.json
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\bin\Debug\netcoreapp3.1\DisplaySingleCountry.runtimeconfig.json
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\bin\Debug\netcoreapp3.1\DisplaySingleCountry.runtimeconfig.dev.json
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\bin\Debug\netcoreapp3.1\DisplaySingleCountry.dll
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\bin\Debug\netcoreapp3.1\DisplaySingleCountry.pdb
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\obj\Debug\netcoreapp3.1\DisplaySingleCountry.AssemblyInfoInputs.cache
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\obj\Debug\netcoreapp3.1\DisplaySingleCountry.AssemblyInfo.cs
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\obj\Debug\netcoreapp3.1\DisplaySingleCountry.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\obj\Debug\netcoreapp3.1\DisplaySingleCountry.dll
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\obj\Debug\netcoreapp3.1\DisplaySingleCountry.pdb
+D:\.NET\pluralsight\Collections\DisplaySingleCountry\DisplaySingleCountry\obj\Debug\netcoreapp3.1\DisplaySingleCountry.genruntimeconfig.cache

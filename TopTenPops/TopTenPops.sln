@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopTenPops", "TopTenPops\TopTenPops.csproj", "{322E5DA2-4975-44D1-B7D1-22098B9E63F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code", "Code", "{946A93B4-5DB8-495D-A3DE-724329DB2119}"
+	ProjectSection(SolutionItems) = preProject
+		Pop by Largest Final.csv = Pop by Largest Final.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322E5DA2-4975-44D1-B7D1-22098B9E63F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322E5DA2-4975-44D1-B7D1-22098B9E63F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322E5DA2-4975-44D1-B7D1-22098B9E63F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322E5DA2-4975-44D1-B7D1-22098B9E63F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A2A1E2E-D4B9-4BBF-84C9-4A590D204F6D}
+	EndGlobalSection
+EndGlobal
