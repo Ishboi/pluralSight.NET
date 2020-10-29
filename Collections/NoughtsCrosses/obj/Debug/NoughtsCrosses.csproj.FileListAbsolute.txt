@@ -1,0 +1,7 @@
+D:\Courses\.NET\pluralsight\Collections\NoughtsCrosses\bin\Debug\NoughtsCrosses.exe.config
+D:\Courses\.NET\pluralsight\Collections\NoughtsCrosses\bin\Debug\NoughtsCrosses.exe
+D:\Courses\.NET\pluralsight\Collections\NoughtsCrosses\bin\Debug\NoughtsCrosses.pdb
+D:\Courses\.NET\pluralsight\Collections\NoughtsCrosses\obj\Debug\NoughtsCrosses.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\Collections\NoughtsCrosses\obj\Debug\NoughtsCrosses.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\Collections\NoughtsCrosses\obj\Debug\NoughtsCrosses.exe
+D:\Courses\.NET\pluralsight\Collections\NoughtsCrosses\obj\Debug\NoughtsCrosses.pdb
