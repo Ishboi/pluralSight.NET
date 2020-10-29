@@ -1,0 +1,7 @@
+D:\Courses\.NET\pluralsight\Collections\ReadAllCountries\bin\Debug\TopTenPops.exe.config
+D:\Courses\.NET\pluralsight\Collections\ReadAllCountries\bin\Debug\TopTenPops.exe
+D:\Courses\.NET\pluralsight\Collections\ReadAllCountries\bin\Debug\TopTenPops.pdb
+D:\Courses\.NET\pluralsight\Collections\ReadAllCountries\obj\Debug\ReadAllCountries.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\Collections\ReadAllCountries\obj\Debug\ReadAllCountries.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\Collections\ReadAllCountries\obj\Debug\TopTenPops.exe
+D:\Courses\.NET\pluralsight\Collections\ReadAllCountries\obj\Debug\TopTenPops.pdb

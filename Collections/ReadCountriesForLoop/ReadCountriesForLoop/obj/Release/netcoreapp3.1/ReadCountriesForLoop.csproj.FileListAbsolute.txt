@@ -1,0 +1,13 @@
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\bin\Release\netcoreapp3.1\ReadCountriesForLoop.exe
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\bin\Release\netcoreapp3.1\ReadCountriesForLoop.deps.json
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\bin\Release\netcoreapp3.1\ReadCountriesForLoop.runtimeconfig.json
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\bin\Release\netcoreapp3.1\ReadCountriesForLoop.runtimeconfig.dev.json
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\bin\Release\netcoreapp3.1\ReadCountriesForLoop.dll
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\bin\Release\netcoreapp3.1\ReadCountriesForLoop.pdb
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\obj\Release\netcoreapp3.1\ReadCountriesForLoop.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\obj\Release\netcoreapp3.1\ReadCountriesForLoop.AssemblyInfoInputs.cache
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\obj\Release\netcoreapp3.1\ReadCountriesForLoop.AssemblyInfo.cs
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\obj\Release\netcoreapp3.1\ReadCountriesForLoop.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\obj\Release\netcoreapp3.1\ReadCountriesForLoop.dll
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\obj\Release\netcoreapp3.1\ReadCountriesForLoop.pdb
+D:\Courses\.NET\pluralsight\Collections\ReadCountriesForLoop\ReadCountriesForLoop\obj\Release\netcoreapp3.1\ReadCountriesForLoop.genruntimeconfig.cache
