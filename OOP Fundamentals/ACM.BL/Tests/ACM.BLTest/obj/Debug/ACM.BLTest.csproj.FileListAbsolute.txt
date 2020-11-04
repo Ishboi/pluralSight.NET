@@ -1,0 +1,16 @@
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\ACM.BL.dll
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\ACM.BL.pdb
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb

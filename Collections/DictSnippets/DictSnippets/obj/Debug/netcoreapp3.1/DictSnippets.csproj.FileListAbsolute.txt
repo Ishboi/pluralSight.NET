@@ -1,0 +1,13 @@
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\bin\Debug\netcoreapp3.1\DictSnippets.exe
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\bin\Debug\netcoreapp3.1\DictSnippets.deps.json
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\bin\Debug\netcoreapp3.1\DictSnippets.runtimeconfig.json
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\bin\Debug\netcoreapp3.1\DictSnippets.runtimeconfig.dev.json
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\bin\Debug\netcoreapp3.1\DictSnippets.dll
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\bin\Debug\netcoreapp3.1\DictSnippets.pdb
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\obj\Debug\netcoreapp3.1\DictSnippets.csprojAssemblyReference.cache
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\obj\Debug\netcoreapp3.1\DictSnippets.AssemblyInfoInputs.cache
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\obj\Debug\netcoreapp3.1\DictSnippets.AssemblyInfo.cs
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\obj\Debug\netcoreapp3.1\DictSnippets.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\obj\Debug\netcoreapp3.1\DictSnippets.dll
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\obj\Debug\netcoreapp3.1\DictSnippets.pdb
+D:\.NET\pluralsight\Collections\DictSnippets\DictSnippets\obj\Debug\netcoreapp3.1\DictSnippets.genruntimeconfig.cache
