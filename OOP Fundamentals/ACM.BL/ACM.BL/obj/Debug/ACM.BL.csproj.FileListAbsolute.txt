@@ -1,0 +1,15 @@
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\bin\Debug\ACM.BL.dll
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\bin\Debug\ACM.BL.pdb
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\obj\Debug\ACM.BL.dll
+D:\Courses\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\obj\Debug\ACM.BL.pdb
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\bin\Debug\ACM.BL.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\bin\Debug\ACM.BL.pdb
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\obj\Debug\ACM.BL.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\obj\Debug\ACM.BL.pdb
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\bin\Debug\Acme.Common.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\bin\Debug\Acme.Common.pdb
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete

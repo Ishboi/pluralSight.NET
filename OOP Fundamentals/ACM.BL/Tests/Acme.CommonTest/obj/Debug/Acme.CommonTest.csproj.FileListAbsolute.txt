@@ -1,0 +1,16 @@
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Acme.CommonTest.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Acme.CommonTest.pdb
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Acme.Common.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Acme.Common.pdb
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csprojAssemblyReference.cache
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CopyComplete
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
+D:\.NET\pluralsight\OOP Fundamentals\ACM.BL\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
