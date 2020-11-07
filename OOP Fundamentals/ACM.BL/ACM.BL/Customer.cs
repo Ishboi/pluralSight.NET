@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Acme.Common;
 
 namespace ACM.BL
 {
-  public class Customer
+  public class Customer : EntityBase, ILoggable
   {
 
     public Customer() : this(0)
@@ -43,6 +45,17 @@ namespace ACM.BL
       }
     }
 
+    //public string Log()
+    //{
+    //  var logString = CustomerId + "; " +
+    //                  FullName + " " +
+    //                  "Email: " + EmailAddress + " " +
+    //                  "Status: " + EntityState.ToString();
+    //  return logString;
+    //}
+
+    public string Log() => $"{CustomerId}: {FullName} Email: {EmailAddress} Status: {EntityState.ToString()}";
+
     public override string ToString() => FullName;
 
     public static int InstanceCount { get; set; }
@@ -64,7 +77,7 @@ namespace ACM.BL
     /// Validates the customer data. 
     /// </summary>
     ///
-    public bool Validate()
+    public override bool Validate()
     {
       var isValid = true;
       if (string.IsNullOrWhiteSpace(LastName)) isValid = false;
