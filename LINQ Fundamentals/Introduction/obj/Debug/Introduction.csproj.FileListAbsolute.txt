@@ -1,0 +1,7 @@
+D:\.NET\pluralsight\LINQ Fundamentals\Introduction\bin\Debug\Introduction.exe.config
+D:\.NET\pluralsight\LINQ Fundamentals\Introduction\bin\Debug\Introduction.exe
+D:\.NET\pluralsight\LINQ Fundamentals\Introduction\bin\Debug\Introduction.pdb
+D:\.NET\pluralsight\LINQ Fundamentals\Introduction\obj\Debug\Introduction.csprojAssemblyReference.cache
+D:\.NET\pluralsight\LINQ Fundamentals\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\LINQ Fundamentals\Introduction\obj\Debug\Introduction.exe
+D:\.NET\pluralsight\LINQ Fundamentals\Introduction\obj\Debug\Introduction.pdb

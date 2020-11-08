@@ -1,0 +1,7 @@
+D:\.NET\pluralsight\LINQ Fundamentals\Features\bin\Debug\Features.exe.config
+D:\.NET\pluralsight\LINQ Fundamentals\Features\bin\Debug\Features.exe
+D:\.NET\pluralsight\LINQ Fundamentals\Features\bin\Debug\Features.pdb
+D:\.NET\pluralsight\LINQ Fundamentals\Features\obj\Debug\Features.csprojAssemblyReference.cache
+D:\.NET\pluralsight\LINQ Fundamentals\Features\obj\Debug\Features.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\LINQ Fundamentals\Features\obj\Debug\Features.exe
+D:\.NET\pluralsight\LINQ Fundamentals\Features\obj\Debug\Features.pdb
