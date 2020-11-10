@@ -5,3 +5,10 @@ D:\.NET\pluralsight\LINQ Fundamentals\Queries\obj\Debug\Queries.csprojAssemblyRe
 D:\.NET\pluralsight\LINQ Fundamentals\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
 D:\.NET\pluralsight\LINQ Fundamentals\Queries\obj\Debug\Queries.exe
 D:\.NET\pluralsight\LINQ Fundamentals\Queries\obj\Debug\Queries.pdb
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Queries\bin\Debug\Queries.exe.config
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Queries\bin\Debug\Queries.exe
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Queries\bin\Debug\Queries.pdb
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Queries\obj\Debug\Queries.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Queries\obj\Debug\Queries.exe
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Queries\obj\Debug\Queries.pdb

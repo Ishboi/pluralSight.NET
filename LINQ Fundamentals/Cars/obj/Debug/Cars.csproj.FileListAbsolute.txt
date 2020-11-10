@@ -1,0 +1,8 @@
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\fuel.csv
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\Cars.exe.config
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\Cars.exe
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\Cars.pdb
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.exe
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.pdb
