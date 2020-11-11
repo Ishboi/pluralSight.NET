@@ -6,3 +6,4 @@ D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.csprojAssembly
 D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
 D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.exe
 D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.pdb
+D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\manufacturers.csv
