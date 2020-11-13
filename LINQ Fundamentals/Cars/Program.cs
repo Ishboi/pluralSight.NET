@@ -6,6 +6,8 @@ using System.Linq;
 using System.Xml.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
+using System.Linq.Expressions;
 
 namespace Cars
 {
@@ -13,9 +15,58 @@ namespace Cars
   {
     static void Main(string[] args)
     {
-      CreatXml();
-      QueryXml();
 
+
+
+      Database.SetInitializer(new DropCreateDatabaseIfModelChanges<CarDb>());
+      //InsertData();
+      QueryData();
+
+    }
+
+    private static void QueryData()
+    {
+      var db = new CarDb();
+
+      db.Database.Log = Console.WriteLine;
+
+      var query =
+          from car in db.Cars
+          group car by car.Manufacturer into manufacturer
+          select new
+          {
+            Name = manufacturer.Key,
+            Cars = (from car in manufacturer
+                   orderby car.Combined descending
+                   select car).Take(2)
+          };
+
+      foreach (var group in query)
+      {
+        Console.WriteLine(group.Name);
+        foreach (var car in group.Cars)
+        {
+          Console.WriteLine($"\t{car.Name}: {car.Combined}");
+        }
+      }
+
+
+    }
+
+    private static void InsertData()
+    {
+      var cars = ProcessCars("fuel.csv");
+      var db = new CarDb();
+      db.Database.Log = Console.WriteLine;
+
+      if (!db.Cars.Any())
+      {
+        foreach (var car in cars)
+        {
+          db.Cars.Add(car);
+        }
+        db.SaveChanges();
+      }
     }
 
     private static void QueryXml()
@@ -25,7 +76,7 @@ namespace Cars
       var document = XDocument.Load("fuel.xml");
 
       var query =
-        from element in document.Element(ns + "Cars")?.Elements(ex + "Car") 
+        from element in document.Element(ns + "Cars")?.Elements(ex + "Car")
                                                      ?? Enumerable.Empty<XElement>()
         where element.Attribute("Manufacturer")?.Value == "BMW"
         select element.Attribute("Name").Value;

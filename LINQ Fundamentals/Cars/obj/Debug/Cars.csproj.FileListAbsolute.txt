@@ -7,3 +7,17 @@ D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.csproj.CoreCom
 D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.exe
 D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.pdb
 D:\Courses\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\manufacturers.csv
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\fuel.csv
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\manufacturers.csv
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\Cars.exe.config
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\Cars.exe
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\Cars.pdb
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.exe
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.pdb
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\EntityFramework.dll
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\EntityFramework.SqlServer.dll
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\EntityFramework.xml
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\bin\Debug\EntityFramework.SqlServer.xml
+D:\.NET\pluralsight\LINQ Fundamentals\Cars\obj\Debug\Cars.csproj.CopyComplete
