@@ -1,0 +1,13 @@
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\bin\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.exe
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\bin\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.deps.json
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\bin\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.runtimeconfig.json
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\bin\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.runtimeconfig.dev.json
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\bin\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.dll
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\bin\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.pdb
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\obj\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.AssemblyInfoInputs.cache
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\obj\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.AssemblyInfo.cs
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\obj\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\obj\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.dll
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\obj\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.pdb
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\obj\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.genruntimeconfig.cache
+D:\.NET\pluralsight\Dates and Times\Dates_and_Times_in_.NET\Dates_and_Times_in_.NET\obj\Debug\netcoreapp3.1\Dates_and_Times_in_.NET.csprojAssemblyReference.cache
