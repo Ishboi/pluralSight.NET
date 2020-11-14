@@ -1,0 +1,14 @@
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.exe
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.deps.json
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.runtimeconfig.json
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.runtimeconfig.dev.json
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.dll
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.pdb
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.AssemblyInfoInputs.cache
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.AssemblyInfo.cs
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.csproj.CoreCompileInputs.cache
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.dll
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.pdb
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.genruntimeconfig.cache
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.csprojAssemblyReference.cache
+D:\.NET\pluralsight\Dates and Times\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockData.csv
