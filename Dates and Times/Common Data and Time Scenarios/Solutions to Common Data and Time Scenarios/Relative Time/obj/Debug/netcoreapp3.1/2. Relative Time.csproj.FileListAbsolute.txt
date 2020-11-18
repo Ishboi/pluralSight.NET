@@ -1,0 +1,16 @@
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\obj\Debug\netcoreapp3.1\2. Relative Time.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\obj\Debug\netcoreapp3.1\2. Relative Time.AssemblyInfoInputs.cache
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\obj\Debug\netcoreapp3.1\2. Relative Time.AssemblyInfo.cs
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\obj\Debug\netcoreapp3.1\2. Relative Time.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\bin\Debug\netcoreapp3.1\2. Relative Time.exe
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\bin\Debug\netcoreapp3.1\2. Relative Time.deps.json
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\bin\Debug\netcoreapp3.1\2. Relative Time.runtimeconfig.json
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\bin\Debug\netcoreapp3.1\2. Relative Time.runtimeconfig.dev.json
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\bin\Debug\netcoreapp3.1\2. Relative Time.dll
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\bin\Debug\netcoreapp3.1\2. Relative Time.pdb
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\bin\Debug\netcoreapp3.1\Shared.dll
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\obj\Debug\netcoreapp3.1\2. Relative Time.csproj.CopyComplete
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\obj\Debug\netcoreapp3.1\2. Relative Time.dll
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\obj\Debug\netcoreapp3.1\2. Relative Time.pdb
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Relative Time\obj\Debug\netcoreapp3.1\2. Relative Time.genruntimeconfig.cache

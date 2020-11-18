@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Zs6ig0gMy3JFZo0XkVsG/2+rZ3cnxEqZNmB9Cd9Lsmqbh0ofbMn0maM6gGxSZZqxaQogIzBuSw5iYSUv5zGzA==",
+  "success": true,
+  "projectFilePath": "D:\\Courses\\.NET\\pluralsight\\Dates and Times\\Solutions to Common Data and Time Scenarios\\Solutions to Common Data and Time Scenarios\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

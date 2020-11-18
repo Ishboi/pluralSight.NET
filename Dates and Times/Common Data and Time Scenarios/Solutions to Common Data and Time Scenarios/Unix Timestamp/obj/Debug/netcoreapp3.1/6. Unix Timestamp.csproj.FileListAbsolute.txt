@@ -1,0 +1,13 @@
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\bin\Debug\netcoreapp3.1\6. Unix Timestamp.exe
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\bin\Debug\netcoreapp3.1\6. Unix Timestamp.deps.json
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\bin\Debug\netcoreapp3.1\6. Unix Timestamp.runtimeconfig.json
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\bin\Debug\netcoreapp3.1\6. Unix Timestamp.runtimeconfig.dev.json
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\bin\Debug\netcoreapp3.1\6. Unix Timestamp.dll
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\bin\Debug\netcoreapp3.1\6. Unix Timestamp.pdb
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\obj\Debug\netcoreapp3.1\6. Unix Timestamp.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\obj\Debug\netcoreapp3.1\6. Unix Timestamp.AssemblyInfoInputs.cache
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\obj\Debug\netcoreapp3.1\6. Unix Timestamp.AssemblyInfo.cs
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\obj\Debug\netcoreapp3.1\6. Unix Timestamp.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\obj\Debug\netcoreapp3.1\6. Unix Timestamp.dll
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\obj\Debug\netcoreapp3.1\6. Unix Timestamp.pdb
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Unix Timestamp\obj\Debug\netcoreapp3.1\6. Unix Timestamp.genruntimeconfig.cache

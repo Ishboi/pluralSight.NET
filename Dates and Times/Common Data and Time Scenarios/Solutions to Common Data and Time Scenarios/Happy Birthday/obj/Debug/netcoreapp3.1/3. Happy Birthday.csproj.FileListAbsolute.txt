@@ -1,0 +1,16 @@
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\bin\Debug\netcoreapp3.1\3. Happy Birthday.exe
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\bin\Debug\netcoreapp3.1\3. Happy Birthday.deps.json
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\bin\Debug\netcoreapp3.1\3. Happy Birthday.runtimeconfig.json
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\bin\Debug\netcoreapp3.1\3. Happy Birthday.runtimeconfig.dev.json
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\bin\Debug\netcoreapp3.1\3. Happy Birthday.dll
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\bin\Debug\netcoreapp3.1\3. Happy Birthday.pdb
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\bin\Debug\netcoreapp3.1\Shared.dll
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\obj\Debug\netcoreapp3.1\3. Happy Birthday.csprojAssemblyReference.cache
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\obj\Debug\netcoreapp3.1\3. Happy Birthday.AssemblyInfoInputs.cache
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\obj\Debug\netcoreapp3.1\3. Happy Birthday.AssemblyInfo.cs
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\obj\Debug\netcoreapp3.1\3. Happy Birthday.csproj.CoreCompileInputs.cache
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\obj\Debug\netcoreapp3.1\3. Happy Birthday.csproj.CopyComplete
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\obj\Debug\netcoreapp3.1\3. Happy Birthday.dll
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\obj\Debug\netcoreapp3.1\3. Happy Birthday.pdb
+D:\Courses\.NET\pluralsight\Dates and Times\Solutions to Common Data and Time Scenarios\Solutions to Common Data and Time Scenarios\Happy Birthday\obj\Debug\netcoreapp3.1\3. Happy Birthday.genruntimeconfig.cache
